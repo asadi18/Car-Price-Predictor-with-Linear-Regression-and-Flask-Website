@@ -41,22 +41,6 @@ It is built with **Flask**, trained using **Linear Regression**, and deployed us
 
 ---
 
-## 🖥️ App Structure
-
-car-price-predictor/
-│
-├── app.py # Flask backend
-├── LinearRegressionModel.pkl # Saved model
-├── cleaned_car_dataset.csv # Processed dataset
-├── requirements.txt # Dependencies
-├── static/
-│ └── css/
-│ └── style.css # Custom dark theme
-├── templates/
-│ └── index.html # HTML form
-
----
-
 ## 🌐 Deployment
 
 Hosted on **Render.com**.
@@ -80,7 +64,7 @@ gunicorn==20.1.0
 
 ## 🙌 Author
 
-Built and maintained by [Your Name].
+Built and maintained by Asad Ishteaque.
 
 Contributions, issues, and suggestions are welcome!
 
